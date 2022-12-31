@@ -15,43 +15,6 @@ In This Application, I have Covered Below all Topics 👇
 * Shared Preference
 * Widgets
 
-## Screenshots 📱
-
-<table>
-<tr>
-<td ><img src="https://user-images.githubusercontent.com/94277910/208240586-d51812ea-283e-49f1-a249-74e1e8471f86.png" width="360" height="620"></td>
-<td ><img src="https://user-images.githubusercontent.com/94277910/208240019-c7e702dd-93d2-4a8c-9cc6-fb5c072c8bdd.png" width="360" height="620"></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td ><img src="https://user-images.githubusercontent.com/94277910/208240609-03b2a5cc-057f-4597-a859-d16812cd4c35.png" width="340" height="580"></td>
-<td ><img src="https://user-images.githubusercontent.com/94277910/208240087-314d6957-c14f-48ce-8b39-849587077581.png" width="340" height="580"></td>
-<td ><img src="https://user-images.githubusercontent.com/94277910/208240311-31eff14a-7971-4fc6-a149-191a5a9a017d.png" width="340" height="580"></td>
-</tr>
-</table>
-<table>
-<tr>
-<td ><img src="https://user-images.githubusercontent.com/94277910/208240678-16750bc6-4dac-4ee3-847c-c73f9234790e.png" width="340" height="580"></td>
-<td ><img src="https://user-images.githubusercontent.com/94277910/208240740-827c74c9-fe8e-4e3b-8291-87d3de6e61fd.png" width="340" height="580"></td>
-<td ><img src="https://user-images.githubusercontent.com/94277910/208240760-3d29bdbc-ecd8-4438-92b7-88a3aa6832ff.png" width="340" height="580"></td>
-</tr>
-</table>
-<table>
-<tr>
-<td ><img src="https://user-images.githubusercontent.com/94277910/208240896-4dc09c59-6415-46b1-bbd5-50c8a4295d28.png" width="360" height="620"></td>
-<td ><img src="https://user-images.githubusercontent.com/94277910/208240957-0817a91a-16e0-4360-8771-fd00908dae4e.png" width="360" height="620"></td>
-</tr>
-</table>
-<table>
-<tr>
-<td ><img src="https://user-images.githubusercontent.com/94277910/208241041-b4504a54-22ce-4561-8e9a-f1156b6a2d17.png" width="340" height="580"></td>
-<td ><img src="https://user-images.githubusercontent.com/94277910/208241049-2e4368b9-dfa4-473c-843b-4dc64670b512.png" width="340" height="580"></td>
-<td ><img src="https://user-images.githubusercontent.com/94277910/208241071-315206ba-8be3-43ac-bcfd-0d52d810ea0a.png" width="340" height="580"></td>
-</tr>
-</table>
-
 ## Tech Stack 💻
 
 UI Design <br><br>
